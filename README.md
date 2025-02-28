@@ -5,7 +5,6 @@ Welcome to the Data Cleaning Projects repository! This repository contains vario
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-- [Usage](#usage)
 
 
 ## Introduction
