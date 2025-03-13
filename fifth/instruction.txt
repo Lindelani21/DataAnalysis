@@ -1,4 +1,6 @@
-Questions to answer individually                                                                                                                                                                                                                                                                                                                                                             1.EDA Expansion:
+Questions to answer individually    
+
+1.EDA Expansion:
 Explore the most common words in fake and real headlines using separate word clouds or bar plots. What patterns can you observe?
  
 2.Advanced Text Preprocessing
